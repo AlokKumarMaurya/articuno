@@ -6,6 +6,6 @@ void main()=>
     (
     runApp(new MaterialApp(
         home: Articuno(),
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: false,     //this code is written just to remove the dbug line from the application
     ))
     );
